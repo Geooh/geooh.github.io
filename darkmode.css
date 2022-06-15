@@ -1,0 +1,17 @@
+:root { /* can apply to any variable we want */
+
+    --mainColor: rgba(13, 14, 13, 0.658);
+    --secondaryColor: rgba(0, 0, 0, 0.658);
+
+    --borderColor: #c1c1c1;
+
+    --mainText: #fff; 
+    --secondaryText: #eeeeee;
+
+    --themeDotBorder: #fff;
+
+    --previewBg: rgba(14, 15, 14, 0.658);
+    --previewShadow: rgba(0, 0, 0, 0.658);
+
+    --buttonColor: rgba(14, 15, 14, 0.658);
+}
